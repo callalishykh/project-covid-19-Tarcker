@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/project-covid-19-Tarcker/static/css/main.0b1de287.chunk.css",
+    "main.css": "/project-covid-19-Tarcker/static/css/main.61b0e407.chunk.css",
     "main.js": "/project-covid-19-Tarcker/static/js/main.24253966.chunk.js",
     "main.js.map": "/project-covid-19-Tarcker/static/js/main.24253966.chunk.js.map",
     "runtime-main.js": "/project-covid-19-Tarcker/static/js/runtime-main.9acd4992.js",
@@ -8,16 +8,16 @@
     "static/js/2.ac883dbf.chunk.js": "/project-covid-19-Tarcker/static/js/2.ac883dbf.chunk.js",
     "static/js/2.ac883dbf.chunk.js.map": "/project-covid-19-Tarcker/static/js/2.ac883dbf.chunk.js.map",
     "index.html": "/project-covid-19-Tarcker/index.html",
-    "precache-manifest.8c3864cf552e3210575e1010c4463a25.js": "/project-covid-19-Tarcker/precache-manifest.8c3864cf552e3210575e1010c4463a25.js",
+    "precache-manifest.3b723cd65b3cba37acd9525869a977da.js": "/project-covid-19-Tarcker/precache-manifest.3b723cd65b3cba37acd9525869a977da.js",
     "service-worker.js": "/project-covid-19-Tarcker/service-worker.js",
-    "static/css/main.0b1de287.chunk.css.map": "/project-covid-19-Tarcker/static/css/main.0b1de287.chunk.css.map",
+    "static/css/main.61b0e407.chunk.css.map": "/project-covid-19-Tarcker/static/css/main.61b0e407.chunk.css.map",
     "static/js/2.ac883dbf.chunk.js.LICENSE.txt": "/project-covid-19-Tarcker/static/js/2.ac883dbf.chunk.js.LICENSE.txt",
     "static/media/covid-19.png": "/project-covid-19-Tarcker/static/media/covid-19.5b53b2e5.png"
   },
   "entrypoints": [
     "static/js/runtime-main.9acd4992.js",
     "static/js/2.ac883dbf.chunk.js",
-    "static/css/main.0b1de287.chunk.css",
+    "static/css/main.61b0e407.chunk.css",
     "static/js/main.24253966.chunk.js"
   ]
 }
